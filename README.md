@@ -13,4 +13,4 @@ This project involves ECG signal processing and classification using a 1D CNN mo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ECG-Signal-Processing-1D-CNN.git
+   git clone https://github.com/Arshia-04/ECG-Classification-using-1D-CNN
